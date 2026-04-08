@@ -55,9 +55,9 @@ Currently working on end-to-end intelligent systems.
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=z-anxprincex1.z-anxprincex1&"  />
-  <small>
+  <!-- <small>
     <a href="https://profile-readme-generator.com/" target="_blank">profile-readme-generator</a>
-  </small>
+  </small> -->
 </div>
 
 ###
