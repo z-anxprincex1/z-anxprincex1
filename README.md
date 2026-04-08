@@ -1,15 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=z-anxprincex1.z-anxprincex1&"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
 <h1 align="left">Hey, I'm Anand 👋</h1>
 
 ###
@@ -57,5 +45,11 @@ Currently working on end-to-end intelligent systems.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z-anxprincex1/z-anxprincex1/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/z-anxprincex1/z-anxprincex1/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=z-anxprincex1.z-anxprincex1&"  />
+</div>
 
 ###
