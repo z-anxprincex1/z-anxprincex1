@@ -55,7 +55,6 @@ Currently working on end-to-end intelligent systems.
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=z-anxprincex1.z-anxprincex1&"  />
-  <img src="https://komarev.com/ghpvc/?username=z-anxprincex1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <!-- <small>
     <a href="https://profile-readme-generator.com/" target="_blank">profile-readme-generator</a>
   </small> -->
